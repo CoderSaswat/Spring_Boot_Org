@@ -1,0 +1,5 @@
+package com.saswat.springboot.core.dao.impl;
+
+public class PaymentDaoImpl {
+
+}
