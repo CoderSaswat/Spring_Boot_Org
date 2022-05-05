@@ -1,0 +1,25 @@
+<!doctype html>
+
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+
+<head>
+	<meta charset="utf-8">
+	<title>My Page Title</title>
+	<meta name="description" content="My Page Description">
+</head>
+
+<body>
+	<h1>students details are: </h1>
+	<table>
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+		</tr>
+		<tr th:each="student : ${studentList}">
+			<td th:text="${student.id}"></td>
+			<td th:text="${student.name}"></td>
+		</tr>
+	</table>
+</body>
+
+</html>
