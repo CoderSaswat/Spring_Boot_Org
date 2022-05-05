@@ -16,7 +16,7 @@ class SpringrestapiApplicationTests {
 	void testGetProduct() {
 		System.out.println(baseUrl);
 		RestTemplate restTemplate = new RestTemplate();
-		Product product = restTemplate.getForObject(baseUrl + "/5", Product.class);
+		Product product = restTemplate.getForObject(baseUrl + "/10", Product.class);
 		System.out.println(product);
 	}
 
