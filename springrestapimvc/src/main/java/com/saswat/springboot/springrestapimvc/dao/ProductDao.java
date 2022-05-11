@@ -1,5 +1,7 @@
 package com.saswat.springboot.springrestapimvc.dao;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
@@ -11,11 +13,25 @@ public class ProductDao {
 	@Autowired
 	ProductRepository repository;
 
-	public Product getProduct(Integer id) {
+	public Product readProduct(Integer id) {
 		return repository.findById(id).get();
 	}
 	
-	public Product saveProduct(Product product) {
+	public Product createProduct(Product product) {
 		return repository.save(product);
 	}
+	
+	public List<Product> readProducts(){
+		return repository.findAll();
+	}
+	
+	public Product updateProduct(Product product) {
+		return repository.save(product);
+	}
+	
+	public void deleteProduct(Integer id) {
+		repository.deleteById(id);
+	}
+	
+	
 }
