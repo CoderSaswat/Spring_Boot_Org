@@ -45,12 +45,12 @@
     <fullyQualifiedTypeName name="org.springframework.batch.core.configuration.annotation.JobBuilderFactory"/>
     <fullyQualifiedTypeName name="org.springframework.batch.core.launch.support.RunIdIncrementer"/>
     <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
-    <fullyQualifiedTypeName name="org.springframework.batch.core.launch.JobLauncher"/>
     <fullyQualifiedTypeName name="org.springframework.batch.core.JobParameters"/>
     <fullyQualifiedTypeName name="org.springframework.batch.core.JobParametersBuilder"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.batch.BatchProperties.Job"/>
     <fullyQualifiedTypeName name="org.springframework.batch.core.Job"/>
     <fullyQualifiedTypeName name="org.springframework.batch.core.configuration.annotation.EnableBatchProcessing"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.launch.JobLauncher"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 </qualifiedTypeNameHistroy>

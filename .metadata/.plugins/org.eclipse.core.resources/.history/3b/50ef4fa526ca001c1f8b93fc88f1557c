@@ -1,7 +1,0 @@
-package com.saswat.springboot.core.services.impl;
-
-import com.saswat.springboot.core.services.PaymentService;
-
-public class PaymentServiceImpl implements PaymentService {
-
-}

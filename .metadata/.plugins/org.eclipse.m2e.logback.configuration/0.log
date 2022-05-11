@@ -1264,3 +1264,20 @@
 2022-05-07 12:42:11,598 [Worker-48: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /batchcsvtodb/src/test/java
 2022-05-07 12:42:12,272 [Worker-48: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
 2022-05-07 12:49:49,016 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-05-07 16:18:15,349 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-07 16:27:39,571 [Worker-2: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 16:27:39,573 [Worker-2: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 16:27:39,577 [Worker-2: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 16:27:39,591 [Worker-2: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 16:27:39,593 [Worker-2: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 16:27:39,593 [Worker-2: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 16:27:39,594 [Worker-2: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Spring_Boot_org\batchcsvtodb\src\test\resources
+2022-05-07 16:31:19,000 [Worker-11: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 16:31:19,001 [Worker-11: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 16:31:19,007 [Worker-11: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-05-07 16:31:19,016 [Worker-11: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-05-07 16:31:19,021 [Worker-11: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-07 16:31:19,021 [Worker-11: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-05-07 16:31:19,021 [Worker-11: Launching BatchcsvtodbApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Spring_Boot_org\batchcsvtodb\src\test\resources
+2022-05-07 22:32:44,858 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-11 09:48:47,723 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

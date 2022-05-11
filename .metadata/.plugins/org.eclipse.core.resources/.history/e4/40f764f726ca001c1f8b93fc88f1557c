@@ -1,7 +1,0 @@
-package com.saswat.springboot.core.dao.impl;
-
-import com.saswat.springboot.core.dao.PaymentDao;
-
-public class PaymentDaoImpl implements PaymentDao{
-
-}

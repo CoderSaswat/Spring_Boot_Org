@@ -1,0 +1,9 @@
+package com.saswat.springboot.springrestapimvc.repo;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.saswat.springboot.springrestapimvc.model.Product;
+
+public interface ProductRepository extends JpaRepository<Product, Integer> {
+
+}

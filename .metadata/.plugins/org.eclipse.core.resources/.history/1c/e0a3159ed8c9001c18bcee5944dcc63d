@@ -1,5 +1,0 @@
-package com.saswat.springboot.controller;
-
-public class HelloController {
-
-}
